@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+@font-face {
+  font-family: 'Jakarta-Extra-Light';
+  src: url('../src/assets/font/Jakarta/PlusJakartaSans-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: 'Jakarta-Reguler';
+  src: url('../src/assets/font/Jakarta//PlusJakartaSans-Regular.ttf');
+}
+@font-face {
+  font-family: 'Jakarta-Medium';
+  src: url('../src/assets/font/Jakarta/PlusJakartaSans-Medium.ttf');
+}
+@font-face {
+  font-family: 'Jakarta-Bold';
+  src: url('../src/assets/font/Jakarta/PlusJakartaSans-Bold.ttf');
+}
